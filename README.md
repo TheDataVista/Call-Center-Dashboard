@@ -28,8 +28,9 @@ Top States By Calls: Map visualization highlighting the top 10 states with the h
 Call Center Performance
 Calls By Call Center: Monitor total call volumes handled by each call center location for workload management.
 
-Technology Stack
-Dashboard Tool: (e.g., Power BI, Tableau) [Specify the tool used]
+Technology Stack:
+
+Dashboard Tool: Power BI
 
 Data Source: Call Center Dataset
 
